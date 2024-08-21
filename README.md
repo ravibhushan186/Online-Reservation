@@ -1,4 +1,5 @@
 Introduction
+
 Welcome to Online Reservation System using Java. This system allows you to make reservations for guests in online mode. Online reservation systems have become increasingly
 popular in recent years, as more and more businesses look to streamline their booking process and provide a more convenient experience for their customers. In this blog, 
 we will discuss how to build an online reservation system using Java. The online reservation system we will build will be a simple console-based application that allows 
